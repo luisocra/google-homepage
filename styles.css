@@ -1,0 +1,178 @@
+.logo {
+  display: table;
+  margin: auto;
+  position: relative;
+  top: 190px;
+
+}
+
+.sbox {
+    width: 500px;
+    background: transparent;
+    font-size: 16px;
+    border: none;
+    outline: none;
+
+}
+
+.sboxdiv {
+    display: table;
+    margin: auto;
+    position: relative;
+    bottom: 150px;
+    background-color: white;
+    padding: 10px;
+    border-radius: 40px;
+    border: #dfe1e5 solid 1px;
+    top: 220px;
+}
+
+#sicon {
+    float: left;
+    color: #969696;
+    height: 20px;
+    width: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+#smic {
+    color: rgb(30, 158, 233);
+    float: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20px;
+    width: 20px;
+}
+
+.divbtn {
+    display: table;
+    margin: auto;
+    position: relative;
+    bottom: 120px;
+    top: 250px;
+
+}
+
+.sbtn {
+    position: relative;
+    right: 10px;
+    padding: 10px;
+    width: 120px;
+    border: none;
+    border-radius: 4px;
+    color: rgb(97, 97, 97);
+    cursor: pointer;
+}
+
+.sbtn:hover {
+    color: black;
+    border: rgb(197, 197, 197) 1px solid;
+    width: 120px;
+    padding: 9px;
+    border-radius: 4px;
+}
+
+.lbtn {
+    padding: 10px;
+    width: 150px;
+    border: none;
+    border-radius: 4px;
+    color: rgb(97, 97, 97);
+    cursor: pointer;
+
+}
+
+.lbtn:hover {
+    color: black;
+    border: rgb(197, 197, 197) 1px solid;
+    width: 150px;
+    padding: 9px;
+    border-radius: 4px;
+}
+
+.text1 {
+    display: table;
+    margin: auto;
+    position: relative;
+    bottom: 90px;
+    top: 260px;
+
+}
+.navbar {
+    list-style-type: none;
+    position: relative;
+    bottom: 230px;
+    float: right;
+    padding: 20px;
+    margin: 0;
+}
+.navli {
+    display: inline;
+    padding: 5px;
+}
+.navlia {
+    color: black;
+    text-decoration: none;
+}
+.navlia:hover {
+    color: rgb(92, 92, 92);
+    text-decoration: underline;
+}
+#signbtn {
+    background-color: #4285f4;
+    border: none;
+   height: 30px;
+   border-radius: 3px;
+   color: white;
+   font-weight: bold;
+   width: 70px;
+}
+#signbtn:hover {
+    box-shadow: 0 1px 0 rgb(202, 202, 202);
+    text-decoration: none;
+}
+#square {
+    color: rgb(148, 148, 148);
+}
+#square:hover {
+    color: black;
+}
+.footnav {
+    list-style-type: none;
+    position: absolute;
+    bottom: 0px;
+    left: 0;
+    right: 0;
+    padding: 10px;
+    margin: 0;
+   background-color: rgb(238, 238, 238);
+   border-top: rgb(216, 216, 216) solid 1px;
+
+   
+}
+.footli {
+    display: inline;
+    position: relative;
+    left: 10px;
+    padding: 10px;
+    
+}
+.footlia {
+    text-decoration: none;
+    color: rgb(73, 73, 73);
+}
+.footlia:hover {
+    text-decoration: underline;
+}
+#rfoot {
+float: right;
+position: relative;
+right: 15px;
+}
+
+   
+  
